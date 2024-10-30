@@ -43,8 +43,8 @@ Setup
 
 bash
 
-git clone https://github.com/FadiBrahem/rag-agent.git
-cd rag-agent
+git clone https://github.com/your-username/rag-agent-chatbot.git
+cd rag-agent-chatbot
 
 2. Install Dependencies
 
