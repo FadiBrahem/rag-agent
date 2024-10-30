@@ -1,0 +1,41 @@
+.feedback-options {
+  padding: 10px 15px;
+  background-color: #f8f9fa;
+  border-top: 1px solid #e9ecef;
+}
+
+.feedback-options p {
+  margin: 0 0 8px 0;
+  font-size: 0.9rem;
+  color: #666;
+  text-align: center;
+}
+
+.feedback-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.feedback-buttons button {
+  padding: 8px 15px;
+  border: 1px solid #dee2e6;
+  border-radius: 15px;
+  background-color: white;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.feedback-buttons button:hover {
+  background-color: #f8f9fa;
+}
+
+.escalate-btn {
+  color: #dc3545;
+  border-color: #dc3545 !important;
+}
+
+.escalate-btn:hover {
+  background-color: #dc3545 !important;
+  color: white;
+} 
