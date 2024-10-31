@@ -3,7 +3,7 @@ RAG Agent Chatbot
 This project is a Retrieval-Augmented Generation (RAG) chatbot built using Node.js, Express, Socket.IO, MongoDB, Pinecone, and OpenAI's GPT-4. It leverages retrieval-augmented generation to answer user queries by retrieving relevant documents from a knowledge base and generating responses grounded in that knowledge.
 Table of Contents
 
-    Project Overview
+ Project Overview
     Features
     Architecture
     Requirements
@@ -12,6 +12,7 @@ Table of Contents
     Running the Application
     Troubleshooting
 
+   
 Project Overview
 
 The RAG Agent Chatbot is designed for customer support and assists users by providing responses based on the information stored in the knowledge base. It can also escalate to human support when necessary.
