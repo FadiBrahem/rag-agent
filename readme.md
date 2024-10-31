@@ -7,8 +7,8 @@ Table of Contents
    
     
     
-Features
-Architecture
+    Features
+    Architecture
     Requirements
     Setup
     Environment Variables
