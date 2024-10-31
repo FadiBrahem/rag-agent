@@ -4,8 +4,11 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot built using Node.
 Table of Contents
 
  Project Overview
-    Features
-    Architecture
+   
+    
+    
+Features
+Architecture
     Requirements
     Setup
     Environment Variables
